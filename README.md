@@ -1,5 +1,5 @@
 # Sending.Network
-Sending.Network (SDN) is an open, secure web3 communication infrastructure that powers decentralized user interactions - enabling users to chat, trade and socialize seamlessly within and across applications. We provide customized and easy-to-install chatting solutions for Web3 Gaming, Wallets and general Dapp developers.
+NortexApp is an open, secure web3 communication infrastructure that powers decentralized user interactions - enabling users to chat, trade and socialize seamlessly within and across applications. We provide customized and easy-to-install chatting solutions for Web3 Gaming, Wallets and general Dapp developers.
 
 ## Documentation
 
